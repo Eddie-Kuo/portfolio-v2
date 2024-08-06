@@ -8,7 +8,7 @@ export default function About() {
           About
         </h2>
       </div>
-      <div className="text-lightText leading-7">
+      <div className="leading-7 text-lightText">
         <p className="mb-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos culpa,
           maiores eligendi earum sapiente veritatis, tempore eaque similique

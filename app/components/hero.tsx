@@ -12,19 +12,19 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.5 }}
-          className="w-28 h-2 bg-red-300"
+          className="h-2 w-28 bg-red-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.75 }}
-          className="w-24 h-2 bg-blue-300"
+          className="h-2 w-24 bg-blue-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1 }}
-          className="w-2 h-2 bg-yellow-300 rounded-full"
+          className="h-2 w-2 rounded-full bg-yellow-300"
         />
       </div>
 
@@ -34,7 +34,7 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.65 }}
-          className="w-72 h-2 bg-purple-400"
+          className="h-2 w-72 bg-purple-400"
         />
       </div>
 
@@ -44,25 +44,25 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.5 }}
-          className="w-16 h-2 bg-blue-300"
+          className="h-2 w-16 bg-blue-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.75 }}
-          className="w-2 h-2 bg-yellow-300 rounded-full"
+          className="h-2 w-2 rounded-full bg-yellow-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1 }}
-          className="w-32 h-2 bg-green-300"
+          className="h-2 w-32 bg-green-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1.25 }}
-          className="w-24 h-2 bg-blue-300"
+          className="h-2 w-24 bg-blue-300"
         />
       </div>
 
@@ -73,19 +73,19 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.5 }}
-          className="w-28 h-2 bg-red-300"
+          className="h-2 w-28 bg-red-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1 }}
-          className="w-2 h-2 bg-yellow-300 rounded-full"
+          className="h-2 w-2 rounded-full bg-yellow-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1.25 }}
-          className="w-32 h-2 bg-green-300"
+          className="h-2 w-32 bg-green-300"
         />
       </div>
 
@@ -95,36 +95,36 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.45 }}
-          className="w-10 h-2 bg-pink-300"
+          className="h-2 w-10 bg-pink-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.85 }}
-          className="w-32 h-2 bg-green-300"
+          className="h-2 w-32 bg-green-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1.25 }}
-          className="w-2 h-2 bg-yellow-300 rounded-full"
+          className="h-2 w-2 rounded-full bg-yellow-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1.5 }}
-          className="w-32 h-2 bg-blue-300"
+          className="h-2 w-32 bg-blue-300"
         />
       </div>
 
       {/* Name & Title */}
-      <div className="py-3 px-6">
+      <div className="px-6 py-3">
         <motion.div
           initial={{ x: 50, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.65 }}
         >
-          <h1 className="text-5xl font-regular text-lightText">Eddie Kuo</h1>
+          <h1 className="font-regular text-5xl text-lightText">Eddie Kuo</h1>
         </motion.div>
         <motion.div
           initial={{ x: 50, opacity: 0 }}
@@ -141,13 +141,13 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.5 }}
-          className="w-48 h-2 bg-red-300"
+          className="h-2 w-48 bg-red-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.75 }}
-          className="w-2 h-2 bg-yellow-300 rounded-full"
+          className="h-2 w-2 rounded-full bg-yellow-300"
         />
       </div>
 
@@ -157,19 +157,19 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.5 }}
-          className="w-16 h-2 bg-orange-300"
+          className="h-2 w-16 bg-orange-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.75 }}
-          className="w-24 h-2 bg-green-300"
+          className="h-2 w-24 bg-green-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1 }}
-          className="w-24 h-2 bg-blue-300"
+          className="h-2 w-24 bg-blue-300"
         />
       </div>
 
@@ -179,19 +179,19 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.65 }}
-          className="w-28 h-2 bg-red-300"
+          className="h-2 w-28 bg-red-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.85 }}
-          className="w-2 h-2 bg-yellow-300 rounded-full"
+          className="h-2 w-2 rounded-full bg-yellow-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1.25 }}
-          className="w-32 h-2 bg-purple-300"
+          className="h-2 w-32 bg-purple-300"
         />
       </div>
 
@@ -201,25 +201,25 @@ function Hero() {
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.5 }}
-          className="w-10 h-2 bg-green-300"
+          className="h-2 w-10 bg-green-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.75 }}
-          className="w-32 h-2 bg-purple-300"
+          className="h-2 w-32 bg-purple-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1 }}
-          className="w-28 h-2 bg-orange-300"
+          className="h-2 w-28 bg-orange-300"
         />
         <motion.div
           initial={{ x: 75, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 1.25 }}
-          className="w-2 h-2 bg-yellow-300 rounded-full"
+          className="h-2 w-2 rounded-full bg-yellow-300"
         />
       </div>
     </div>
