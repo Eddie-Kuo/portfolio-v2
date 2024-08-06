@@ -124,14 +124,14 @@ function Hero() {
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.65 }}
         >
-          <h1 className="text-5xl font-regular text-zinc-200">Eddie Kuo</h1>
+          <h1 className="text-5xl font-regular text-lightText">Eddie Kuo</h1>
         </motion.div>
         <motion.div
           initial={{ x: 50, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.35, delay: 0.75 }}
         >
-          <p className="text-zinc-400">Software Engineer</p>
+          <p className="text-secondaryText">Software Engineer</p>
         </motion.div>
       </div>
 
