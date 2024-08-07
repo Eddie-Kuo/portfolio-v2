@@ -8,37 +8,24 @@ function Home() {
         <Header />
         <main className="pt-24 lg:w-1/2 lg:py-24">
           {/* about */}
-          <section
-            id="about"
-            className="mb-16 scroll-mt-16 md:mb-24 lg:mb-40 lg:scroll-mt-24"
-          >
+          <section id="about" className="mb-16 md:mb-24 lg:mb-32">
             <About />
           </section>
 
           {/* experience */}
-          <section
-            id="experience"
-            className="mb-16 h-[700px] scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24"
-          >
+          <section id="experience" className="mb-16 md:mb-24 lg:mb-32">
             Experience
           </section>
 
           {/* projects */}
-          <section
-            id="projects"
-            className="lg:scroll-mt-24] mb-16 h-[750px] scroll-mt-16 md:mb-24 lg:mb-36"
-          >
+          <section id="projects" className="mb-16 md:mb-24 lg:mb-32">
             Projects
           </section>
 
           {/* additional stuff */}
-          <section className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24">
-            Tech Stack
-          </section>
-          <section className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24">
-            Contact
-          </section>
-          <section className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24">
+          <section className="mb-16 md:mb-24 lg:mb-32">Tech Stack</section>
+          <section className="mb-16 md:mb-24 lg:mb-32">Contact</section>
+          <section className="mb-16 md:mb-24 lg:mb-32">
             Credit for inspo
           </section>
         </main>
