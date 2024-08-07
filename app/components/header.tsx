@@ -1,6 +1,7 @@
 import React from "react";
 import Hero from "./hero";
-import { useParams, useSearchParams } from "next/navigation";
+import { SocialIcon } from "react-social-icons";
+import Socials from "./socials";
 
 type headerProps = {
   links: string[];
@@ -37,7 +38,7 @@ export default function Header({ links, activeSection }: headerProps) {
           </ul>
         </nav>
       </div>
+      <Socials />
     </header>
-    // socials
   );
 }
