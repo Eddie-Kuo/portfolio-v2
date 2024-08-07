@@ -25,7 +25,10 @@ export default function About() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos culpa,
           maiores eligendi earum sapiente veritatis, tempore eaque similique
           voluptatibus animi libero officiis sit perspiciatis quae laudantium
-          minus accusantium fuga ullam.
+          minus accusantium fuga ullam. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Eos culpa, maiores eligendi earum sapiente
+          veritatis, tempore eaque similique voluptatibus animi libero officiis
+          sit perspiciatis quae laudantium minus accusantium fuga ullam.
         </p>
       </div>
     </>
