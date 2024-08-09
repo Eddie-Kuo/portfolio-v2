@@ -1,7 +1,7 @@
 import React from "react";
-import Hero from "./hero";
-import Socials from "./socials";
-import Nav from "./nav";
+import Hero from "./Hero";
+import Socials from "./Socials";
+import Nav from "./Nav";
 
 function Header() {
   return (

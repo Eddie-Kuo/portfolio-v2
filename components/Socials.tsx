@@ -1,6 +1,6 @@
 import React from "react";
 import { SocialIcon } from "react-social-icons";
-import { socials } from "../constants/socials";
+import { socials } from "@/constants/socials";
 
 function Socials() {
   return (
