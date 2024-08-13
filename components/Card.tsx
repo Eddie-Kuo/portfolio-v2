@@ -40,11 +40,7 @@ function Card({ experience }: { experience: CardProps }) {
           <div className="flex flex-wrap items-center gap-2">
             <h3 className="font-medium text-lightText group-hover:text-accent">
               {experience.deployedLink ? (
-                <a
-                  className="inline-flex items-baseline"
-                  href={experience.deployedLink}
-                  target="_blank"
-                >
+                <a href={experience.deployedLink} target="_blank">
                   <div className="absolute -inset-x-4 -inset-y-4 hidden rounded-md lg:block" />
                   <span>{experience.title}</span>
                 </a>
