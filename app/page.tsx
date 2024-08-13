@@ -1,4 +1,5 @@
 import About from "@/components/About";
+import Experience from "@/components/Experience";
 import Header from "@/components/Header";
 
 function Home() {
@@ -14,7 +15,7 @@ function Home() {
 
           {/* experience */}
           <section id="experience" className="mb-16 md:mb-24 lg:mb-32">
-            Experience
+            <Experience />
           </section>
 
           {/* projects */}

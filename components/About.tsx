@@ -25,7 +25,7 @@ function About() {
         </p>
         <p className="mb-4"></p>
         <p className="mb-4">
-          While I&apos;m not at my computer, you can typically find me working
+          When I&apos;m not at my computer, you can typically find me working
           out, bouldering, hiking with my two dogs (Corgi and Shiba Inu), or
           just casually lounging with my S.O watching some popular shows. If you
           see something you like or would be interested in collaborating on
