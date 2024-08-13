@@ -1,13 +1,10 @@
 import React from "react";
+import SectionHeader from "./SectionHeader";
 
 function About() {
   return (
     <>
-      <div className="sticky top-0 z-20 -mx-6 mb-4 px-6 py-5 md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
-        <h2 className="text-md font-semibold uppercase tracking-widest text-slate-200 lg:sr-only">
-          About
-        </h2>
-      </div>
+      <SectionHeader title="about" />
       <div className="font-light leading-7 text-lightText">
         <p className="mb-4">
           A software engineer based in Austin, Texas with a specialty in the
