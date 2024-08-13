@@ -1,6 +1,7 @@
 import About from "@/components/About";
 import Experience from "@/components/Experience";
 import Header from "@/components/Header";
+import Projects from "@/components/Projects";
 
 function Home() {
   return (
@@ -20,7 +21,7 @@ function Home() {
 
           {/* projects */}
           <section id="projects" className="mb-16 md:mb-24 lg:mb-32">
-            Projects
+            <Projects />
           </section>
 
           {/* additional stuff */}

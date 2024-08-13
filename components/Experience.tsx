@@ -1,6 +1,6 @@
 import { experiences } from "@/constants/experience";
 import React from "react";
-import ExperienceCard from "./ExperienceCard";
+import Card from "./Card";
 import SectionHeader from "./SectionHeader";
 
 function Experience() {
@@ -9,7 +9,7 @@ function Experience() {
       <SectionHeader title="experience" />
       <ul className="group/list">
         {experiences.map((experience) => (
-          <ExperienceCard experience={experience} key={experience.location} />
+          <Card experience={experience} key={experience.location} />
         ))}
       </ul>
     </>
