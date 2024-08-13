@@ -39,7 +39,18 @@ function Card({ experience }: { experience: CardProps }) {
         <div className="z-10 sm:col-span-6">
           <div className="flex flex-wrap items-center gap-2">
             <h3 className="font-medium text-lightText group-hover:text-accent">
-              {experience.title}
+              {experience.deployedLink ? (
+                <a
+                  className="inline-flex items-baseline"
+                  href={experience.deployedLink}
+                  target="_blank"
+                >
+                  <div className="absolute -inset-x-4 -inset-y-4 hidden rounded-md lg:block" />
+                  <span>{experience.title}</span>
+                </a>
+              ) : (
+                <span>{experience.title}</span>
+              )}
             </h3>
             <h5 className="font-xs text-sm text-secondaryText group-hover:text-accent">
               {experience.location}

@@ -5,10 +5,10 @@ import collabo from "../assets/images/collabo.png";
 
 export const projects = [
   {
-    title: "Project One",
+    title: "Intellicourse.ai",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
-    deployedLink: "https://eddiekuo.com",
+    deployedLink: "https://intellicourse-ai.vercel.app/",
     image: intellicourse,
     technologies: [
       "JavaScript",
@@ -21,10 +21,10 @@ export const projects = [
     ],
   },
   {
-    title: "Project Two",
+    title: "Washington Gym",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
-    deployedLink: "https://eddiekuo.com",
+    deployedLink: "https://bespoke-ganache-a22553.netlify.app/",
     image: washingtonGym,
     technologies: [
       "JavaScript",
@@ -37,10 +37,10 @@ export const projects = [
     ],
   },
   {
-    title: "Project Three",
+    title: "Sound Palette",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
-    deployedLink: "https://eddiekuo.com",
+    deployedLink: "https://sound-palette.netlify.app/",
     image: soundPalette,
     technologies: [
       "JavaScript",
@@ -53,10 +53,10 @@ export const projects = [
     ],
   },
   {
-    title: "Project Four",
+    title: "Collabo",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
-    deployedLink: "https://eddiekuo.com",
+    deployedLink: "https://collabomusic.co/",
     image: collabo,
     technologies: [
       "JavaScript",
