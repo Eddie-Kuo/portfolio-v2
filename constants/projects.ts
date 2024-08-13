@@ -24,7 +24,7 @@ export const projects = [
     title: "Washington Gym",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
-    deployedLink: "https://bespoke-ganache-a22553.netlify.app/",
+    deployedLink: "https://washington-gym.vercel.app/",
     image: washingtonGym,
     technologies: [
       "JavaScript",
