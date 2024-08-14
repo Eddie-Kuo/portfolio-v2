@@ -2,6 +2,7 @@ import About from "@/components/About";
 import Experience from "@/components/Experience";
 import Header from "@/components/Header";
 import Projects from "@/components/Projects";
+import Link from "next/link";
 
 function Home() {
   return (
@@ -17,6 +18,18 @@ function Home() {
           {/* experience */}
           <section id="experience" className="mb-16 md:mb-24 lg:mb-32">
             <Experience />
+            <Link
+              href="Edlan_Kuo_Resume.pdf"
+              target="_blank"
+              className="group flex gap-2"
+            >
+              <span className="tracking-wide text-lightText group-hover:text-accent">
+                View Full Resume
+              </span>
+              <div className="text-lightText transition ease-in-out group-hover:translate-x-1 group-hover:text-accent">
+                {`=>`}
+              </div>
+            </Link>
           </section>
 
           {/* projects */}
