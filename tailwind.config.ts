@@ -12,6 +12,7 @@ const config: Config = {
         lightText: "rgb(228 228 231)", // zinc-200
         secondaryText: "rgb(161 161 170)", // zinc-400
         accent: "rgb(45 212 191)", // teal-400
+        background: "rgb(27, 35, 49)",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
