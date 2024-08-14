@@ -6,7 +6,7 @@ import Card from "./Card";
 function Projects() {
   return (
     <>
-      <SectionHeader title="projects" />
+      <SectionHeader title="featured projects" />
       <ul className="group/list">
         {projects.map((project) => (
           <Card experience={project} key={project.title} />

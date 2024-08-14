@@ -28,7 +28,7 @@ function Home() {
           <section>
             <div>
               <p className="text-sm text-secondaryText">
-                Design inspo from {""}
+                Design inspiration credit to {""}
                 <a
                   href="https://brittanychiang.com/"
                   className="text-lightText"

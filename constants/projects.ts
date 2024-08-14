@@ -7,7 +7,7 @@ export const projects = [
   {
     title: "Intellicourse.ai",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
+      "A fullstack web application utilizing AI to generate a custom detailed course roadmap for the user to follow and learn new topics. Courses are broken down into detailed units and chapters with relevant YouTube videos followed by an end of chapter quiz to reinforce the material.",
     deployedLink: "https://intellicourse-ai.vercel.app/",
     image: intellicourse,
     technologies: [
@@ -22,8 +22,7 @@ export const projects = [
   },
   {
     title: "Washington Gym",
-    description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
+    description: "A frontend project showcasing a local gym in Houston, Texas.",
     deployedLink: "https://washington-gym.vercel.app/",
     image: washingtonGym,
     technologies: ["HTML & CSS", "JavaScript", "Figma", "Vercel"],
@@ -31,7 +30,7 @@ export const projects = [
   {
     title: "Sound Palette",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
+      "Create your own palette of sound with this interactive 3D music app. Users can select from a variety of instrument sounds and render colors on key press that turn into gradients when multiple keys are pressed together on the virtual keyboard, creating a mesmerizing experience.",
     deployedLink: "https://sound-palette.netlify.app/",
     image: soundPalette,
     technologies: ["JavaScript", "Three.js", "React", "Netlify"],
@@ -39,7 +38,7 @@ export const projects = [
   {
     title: "Collabo",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem amet adipisci nostrum ipsum repellendus. Dicta, doloremque dolorem veniam, quo fuga unde, ratione eaque cumque quidem est ducimus eveniet.",
+      "Create music with collaborators around the world with our open source song project platform. Collabo was created to aid musicians from around the world over come collaboration hurdles when it comes to living in different cities. Users can contribute to open source projects with a similar style to Github.",
     deployedLink: "https://collabomusic.co/",
     image: collabo,
     technologies: [
