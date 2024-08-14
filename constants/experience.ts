@@ -23,7 +23,7 @@ export const experiences = [
     description:
       "Designed and developed high-quality websites for local small businesses, helping them boost their internet presence. Assisted businesses by developing internal tools to streamline their workflow by providing solutions that automated recurring tasks.",
     duration: "2022 - 2023",
-    technologies: ["TypeScript", "Next.js", "React", "Figma", "TailwindCSS"],
+    technologies: ["TypeScript", "Next.js", "React", "Figma", "Tailwind CSS"],
   },
   {
     id: 3,

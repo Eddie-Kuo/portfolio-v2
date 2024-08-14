@@ -17,7 +17,7 @@ export const projects = [
       "Drizzle ORM",
       "OpenAI API",
       "YouTube API",
-      "TailwindCSS",
+      "Tailwind CSS",
     ],
   },
   {
@@ -47,7 +47,7 @@ export const projects = [
       "TypeScript",
       "Next.js",
       "Supabase",
-      "TailwindCSS",
+      "Tailwind CSS",
     ],
   },
 ];

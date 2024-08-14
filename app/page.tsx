@@ -25,10 +25,25 @@ function Home() {
           </section>
 
           {/* additional stuff */}
-          <section className="mb-16 md:mb-24 lg:mb-32">Tech Stack</section>
-          <section className="mb-16 md:mb-24 lg:mb-32">Contact</section>
-          <section className="mb-16 md:mb-24 lg:mb-32">
-            Credit for inspo
+          <section>
+            <div>
+              <p className="text-sm text-secondaryText">
+                Design inspo from {""}
+                <a
+                  href="https://brittanychiang.com/"
+                  className="text-lightText"
+                >
+                  Brittany Chiang
+                </a>{" "}
+                &{" "}
+                <a
+                  href="https://www.instagram.com/mirayatech/"
+                  className="text-lightText"
+                >
+                  Miraya Tech
+                </a>
+              </p>
+            </div>
           </section>
         </main>
       </div>
