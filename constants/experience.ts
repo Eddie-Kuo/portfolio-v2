@@ -5,7 +5,7 @@ export const experiences = [
     location: "Formosa Plastics Corporation",
     description:
       "Redesigned and developed the department's intranet site, migrating it from Joomla to React with other modern technologies that ultimately elevated the user experience across departments. Closely worked with digitization team to implement a mobile safety accountability app used by technicians when entering powerplants in case of emergency.",
-    duration: "2023 - PRESENT",
+    duration: "2024 - PRESENT",
     technologies: [
       "JavaScript",
       "TypeScript",
