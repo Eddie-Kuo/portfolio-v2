@@ -21,13 +21,6 @@ export const projects = [
     ],
   },
   {
-    title: "Washington Gym",
-    description: "A frontend project showcasing a local gym in Houston, Texas.",
-    deployedLink: "https://washington-gym.vercel.app/",
-    image: washingtonGym,
-    technologies: ["HTML & CSS", "JavaScript", "Figma", "Vercel"],
-  },
-  {
     title: "Sound Palette",
     description:
       "Create your own palette of sound with this interactive 3D music app. Users can select from a variety of instrument sounds and render colors on key press that turn into gradients when multiple keys are pressed together on the virtual keyboard, creating a mesmerizing experience.",
@@ -48,5 +41,12 @@ export const projects = [
       "Supabase",
       "Tailwind CSS",
     ],
+  },
+  {
+    title: "Washington Gym",
+    description: "A frontend project showcasing a local gym in Houston, Texas.",
+    deployedLink: "https://washington-gym.vercel.app/",
+    image: washingtonGym,
+    technologies: ["HTML & CSS", "JavaScript", "Figma", "Vercel"],
   },
 ];
