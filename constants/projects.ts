@@ -2,6 +2,7 @@ import intellicourse from "../assets/images/intellicourse.png";
 import washingtonGym from "../assets/images/washington-gym.png";
 import soundPalette from "../assets/images/sound-palette.png";
 import collabo from "../assets/images/collabo.png";
+import oneSend from "../assets/images/one-send.png";
 
 export const projects = [
   {
@@ -21,6 +22,14 @@ export const projects = [
     ],
   },
   {
+    title: "One-Send",
+    description:
+      "Share personal documents and information at ease with anyone you'd like with this facial encryption sharing platform.",
+    deployedLink: "https://onesend.info",
+    image: oneSend,
+    technologies: ["TypeScript", "Nest.js", "GCP"],
+  },
+  {
     title: "Sound Palette",
     description:
       "Create your own palette of sound with this interactive 3D music app. Users can select from a variety of instrument sounds and render colors on key press that turn into gradients when multiple keys are pressed together on the virtual keyboard, creating a mesmerizing experience.",
@@ -32,7 +41,7 @@ export const projects = [
     title: "Collabo",
     description:
       "Create music with collaborators around the world with our open source song project platform. Collabo was created to aid musicians from around the world over come collaboration hurdles when it comes to living in different cities. Users can contribute to open source projects with a similar style to Github.",
-    deployedLink: "https://collabomusic.co/",
+    deployedLink: "https://monumental-raindrop-9e8457.netlify.app",
     image: collabo,
     technologies: [
       "JavaScript",
@@ -42,11 +51,11 @@ export const projects = [
       "Tailwind CSS",
     ],
   },
-  {
-    title: "Washington Gym",
-    description: "A frontend project showcasing a local gym in Houston, Texas.",
-    deployedLink: "https://washington-gym.vercel.app/",
-    image: washingtonGym,
-    technologies: ["HTML & CSS", "JavaScript", "Figma", "Vercel"],
-  },
+  // {
+  //   title: "Washington Gym",
+  //   description: "A frontend project showcasing a local gym in Houston, Texas.",
+  //   deployedLink: "https://washington-gym.vercel.app/",
+  //   image: washingtonGym,
+  //   technologies: ["HTML & CSS", "JavaScript", "Figma", "Vercel"],
+  // },
 ];
