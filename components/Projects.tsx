@@ -7,6 +7,7 @@ function Projects() {
   return (
     <>
       <SectionHeader title="featured projects" />
+      {/* hover effect */}
       <ul className="group/list">
         {projects.map((project) => (
           <Card experience={project} key={project.title} />
