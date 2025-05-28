@@ -4,7 +4,7 @@ export const experiences = [
     title: "Software Engineer -",
     location: "Digital Uprising LLC",
     description:
-      "Led the development of an internal platform that transformed how the team managed accounts and messaging—streamlining workflows and eliminating longstanding bottlenecks. Worked closely with stakeholders to bring ideas to life and deliver a tool the entire company now relies on.",
+      "Led the development of an internal platform that transformed how the team manages accounts and messaging—streamlining workflows and eliminating longstanding bottlenecks. Worked closely with stakeholders to bring ideas to life and deliver a tool the entire company now relies on.",
     duration: "2024 - Present",
     technologies: ["TypeScript", "React", "Next.js", "Nest.js", "React Native"],
   },
