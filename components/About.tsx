@@ -7,9 +7,10 @@ function About() {
       <SectionHeader title="about" />
       <div className="font-light leading-7 text-lightText">
         <p className="mb-4">
-          A software engineer based in Austin, Texas with a specialty in the
-          JavaScript/TypeScript ecosystem. I enjoy developing pixel-perfect
-          solutions that emphasize on delivering an intuitive user experience.
+          A full-stack software engineer based in Austin, Texas with a specialty
+          in the JavaScript/TypeScript ecosystem. I enjoy developing
+          pixel-perfect solutions that emphasize on delivering an intuitive user
+          experience.
         </p>
         <p className="mb-4">
           My inspiration to pursue this field is accredited towards Apple. I

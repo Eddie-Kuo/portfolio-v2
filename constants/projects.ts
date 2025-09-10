@@ -14,11 +14,11 @@ export const projects = [
     technologies: [
       "TypeScript",
       "Next.js",
-      "Turso DB",
+      "TursoDB",
       "Drizzle ORM",
       "OpenAI API",
       "YouTube API",
-      "Tailwind CSS",
+      "TailwindCSS",
     ],
   },
   {
@@ -48,7 +48,7 @@ export const projects = [
       "TypeScript",
       "Next.js",
       "Supabase",
-      "Tailwind CSS",
+      "TailwindCSS",
     ],
   },
   // {
