@@ -6,10 +6,10 @@ import oneSend from "../assets/images/one-send.png";
 
 export const projects = [
   {
-    title: "Intellicourse.ai",
+    title: "Axiom.ai",
     description:
       "A fullstack web application utilizing AI to generate a custom detailed course roadmap for the user to follow and learn new topics. Courses are broken down into detailed units and chapters with relevant YouTube videos followed by an end of chapter quiz to reinforce the material.",
-    deployedLink: "https://intellicourse-ai.vercel.app/",
+    deployedLink: "https://axiom-ai-ruby.vercel.app/",
     image: intellicourse,
     technologies: [
       "TypeScript",
