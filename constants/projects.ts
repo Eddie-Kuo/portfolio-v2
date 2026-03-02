@@ -3,6 +3,7 @@ import washingtonGym from "../assets/images/washington-gym.png";
 import soundPalette from "../assets/images/sound-palette.png";
 import collabo from "../assets/images/collabo.png";
 import oneSend from "../assets/images/one-send.png";
+import axiom from "../assets/images/axiom.png";
 
 export const projects = [
   {
@@ -10,7 +11,7 @@ export const projects = [
     description:
       "A fullstack web application utilizing AI to generate a custom detailed course roadmap for the user to follow and learn new topics. Courses are broken down into detailed units and chapters with relevant YouTube videos followed by an end of chapter quiz to reinforce the material.",
     deployedLink: "https://axiom-ai-ruby.vercel.app/",
-    image: intellicourse,
+    image: axiom,
     technologies: [
       "TypeScript",
       "Next.js",
