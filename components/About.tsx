@@ -25,9 +25,9 @@ function About() {
         <p className="mb-4">
           When I&apos;m not at my computer, you can typically find me working
           out, playing pickleball, hiking with my Corgi, or just casually
-          lounging around and watching some popular shows. If you see something
-          you like or would be interested in collaborating on something, my door
-          is always open to chat about tech, fitness, or life!
+          exploring new cafes. If you see something you like or would be
+          interested in collaborating on something, my door is always open to
+          chat about tech, fitness, or life!
         </p>
       </div>
     </>
